@@ -1,0 +1,42 @@
+{
+  "obsidian-tts:pause-tts-playback": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-tts:start-pause-resume-tts-playback": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-tts:resume-tts-playback": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-tts:start-tts-playback": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "obsidian-tts:cancel-tts-playback": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ]
+}
