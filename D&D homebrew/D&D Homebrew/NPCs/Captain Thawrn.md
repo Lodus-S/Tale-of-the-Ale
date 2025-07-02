@@ -1,4 +1,0 @@
-
-
-
-![[Thawrn -Portrait.png]]

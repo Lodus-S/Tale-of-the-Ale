@@ -1,0 +1,4 @@
+
+
+![[Gideon Seastone-Portrait.png]]
+
