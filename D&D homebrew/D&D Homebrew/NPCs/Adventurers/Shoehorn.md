@@ -5,3 +5,6 @@ Shoehorn is a pint-sized gnome barbarian whose brain might be as small as his st
 
 
 ![[Shoehorn-Portrait.png]]
+
+*DM's private note*
+yes it was his name and he was not just Shoehorned in

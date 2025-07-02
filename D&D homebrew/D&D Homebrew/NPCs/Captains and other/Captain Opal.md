@@ -8,3 +8,6 @@ Captain Opal is a striking and lethal drow rogue, commanding her ship, _The Unde
 - Was/is Married to Anderson?
 
 ![[Opal-Portrait.png]]
+
+*DM's private note*
+This is a reclothed version of the Minthara Heroforge I made.

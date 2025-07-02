@@ -5,3 +5,5 @@ Took is a mountain of a goliath fighter, towering with muscles and swinging a sw
 
 ![[Tough Guy Took-Portrait.png]]
 
+*DM's private note*
+The outfit is made to look like a character I made in Dynasty warriors Online

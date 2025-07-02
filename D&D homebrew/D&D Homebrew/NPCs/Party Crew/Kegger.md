@@ -5,3 +5,5 @@ Kegger is a cheerful halfling who set out not with a sword, but with a teapot an
 
 ![[Kegger-Portrait.png]]
 
+*DM's private note*
+I really wanted a cook/ bartender on a ship with the party

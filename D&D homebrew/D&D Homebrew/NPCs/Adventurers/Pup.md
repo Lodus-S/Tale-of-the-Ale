@@ -5,3 +5,5 @@ Pup is a weathered old gnome rogue from the streets of Waterdeep, known more by 
 
 ![[Pup-Portrait.png]]
 
+*DM's private note*
+a character from my playthrough of Balder's gate 1

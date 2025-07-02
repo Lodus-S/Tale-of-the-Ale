@@ -6,3 +6,5 @@ Reggis is a bright-eyed young dragonborn with shimmering gold and copper scales 
 
 ![[Reggis-Portrait.png]]
 
+*DM's private note*
+The greatsword is made to look like the moonlight greatsword from Dark Souls 2

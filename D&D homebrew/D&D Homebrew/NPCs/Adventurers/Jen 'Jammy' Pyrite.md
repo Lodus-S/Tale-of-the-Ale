@@ -5,3 +5,5 @@ Jammy Pyrite is a fiery southern halfling wizard who struts into battle with a g
 
 ![[Jen Jammy Pyrite-Token.png]]
 
+*DM's private note*
+Spelljammer?... Jammy?... cast spells?

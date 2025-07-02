@@ -1,4 +1,4 @@
-**Session Recap:**
+**Session Recap- Chair knuckle brawl**
 
 The session kicked off at the tavern where the party listened to rousing speeches from the ship captains. Things took a turn when a crew of rowdy dwarven miners stormed in, led by Brass Bob. Bob approached Gideon, but before any pleasantries could be shared, James cracked a chair over Bob, kicking off a full-blown tavern brawl. Amid the chaos, Gideon swiped the second-last coin from the swear bucket at the bar.
 

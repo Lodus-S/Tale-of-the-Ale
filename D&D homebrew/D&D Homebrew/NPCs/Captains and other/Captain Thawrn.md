@@ -10,6 +10,7 @@ Captain Thawrn is the calm and steady hand of the three, a veteran fighter who l
 
 ![[Thawrn -Portrait.png]]
 
+**Ponti** 
 **Race:** Fey Hawk  
 **Class:** Pet
 
@@ -19,3 +20,6 @@ Ponti is Thawrn’s rare and majestic fey hawk, with deep red feathers streaked 
 ![[Fay Hawk Ponti-Portrait.png]]
 
 
+*DM's private note*
+Thawrn was changed from regal to pirate-y when everyone was making their characters
+Ponti was unchanged

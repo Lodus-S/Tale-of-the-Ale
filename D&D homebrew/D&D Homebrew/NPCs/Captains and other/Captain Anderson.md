@@ -9,3 +9,6 @@ Anderson “The Dude” is a massive, barrel-chested pirate captain who leads wi
 - Was/is Married to Opal?
 
 ![[Anderson The Dude-Token.png]]
+
+*DM's private note*
+"The dude" is a reference to the Big Lebowski  

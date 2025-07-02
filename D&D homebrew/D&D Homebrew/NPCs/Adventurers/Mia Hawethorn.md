@@ -5,3 +5,5 @@ Mia Hawethorn is a quiet human warlock with a dark aura that seems to follow her
 
 ![[Mia Hawethorn-Portrait.png]]
 
+*DM's private note*
+She was made to look like the character I play for Dragon age 2 Hawke

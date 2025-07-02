@@ -5,3 +5,5 @@ Umbrimps are strange, silent entities that drift like shadow-fog through graveya
 
 ![[Imp Umbrimp-Portrait.png]]
 
+*DM's private note*
+tried to make a lil guy and made a whole creature

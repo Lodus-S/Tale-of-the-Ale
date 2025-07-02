@@ -6,3 +6,5 @@ Anders is a quiet but striking figure, wielding twin pikes with effortless grace
 
 ![[Anders-Portrait.png]]
 
+*DM's private note*
+psuedo Kamina from Gurren Lagann minor changes

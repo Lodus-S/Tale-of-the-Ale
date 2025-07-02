@@ -5,3 +5,5 @@ The Gray Maw are eerie, silent soldiers who ambushed the adventurers under the c
 
 ![[Grey Maw-Portrait.png]]
 
+*DM's private note*
+left over from adapted RHPD campaign and now better than ever
