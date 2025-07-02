@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Players/Josephine Jose Lovitt.md",
+                "file": "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Josephine Jose Lovitt"
+              "title": "Van Tassi"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Players/Josephine Jose Lovitt.md",
+                "file": "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Josephine Jose Lovitt"
+              "title": "Backlinks for Van Tassi"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Players/Josephine Jose Lovitt.md",
+                "file": "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Josephine Jose Lovitt"
+              "title": "Outgoing links from Van Tassi"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Players/Josephine Jose Lovitt.md",
+                "file": "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Josephine Jose Lovitt"
+              "title": "Outline of Van Tassi"
             }
           }
         ]
@@ -170,6 +170,22 @@
   },
   "active": "96ba1d837e36c78e",
   "lastOpenFiles": [
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Shoehorn.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Took 'Tough Guy'.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Reggis.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Pup.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Page.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Olga.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Mia Hawethorn.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Jen 'Jammy' Pyrite.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Genna Dilinger.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Anders.md",
+    "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+    "D&D homebrew/D&D Homebrew/Locations/Procampur.md",
+    "D&D homebrew/D&D Homebrew/Locations/The Ale Coast.md",
+    "D&D homebrew/D&D Homebrew/Locations/Tsurlagol.md",
+    "D&D homebrew/D&D Homebrew/Players/Josephine Jose Lovitt.md",
     "D&D homebrew/D&D Homebrew/Players/James Macroy.md",
     "D&D homebrew/D&D Homebrew/Players/Gideon Seastone.md",
     "D&D homebrew/D&D Homebrew/Players/Amsel.md",
@@ -180,22 +196,6 @@
     "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Mayor Of Procampur.md",
     "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Mayor Ironfist (Tsurlagol).md",
     "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Holti and Gnolti.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Hightower Ironfist (Tsurlagol).md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Hamly.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Creatures/Umbrimps.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Creatures/Gray Maw.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Kegger.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Litalis Ironfist.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Turnble.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Van Tassi.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Page.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Mia Hawethorn.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Jen 'Jammy' Pyrite.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Genna Dilinger.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Anders.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Olga.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Pup.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Reggis.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew",
     "D&D homebrew/D&D Homebrew/NPCs/Adventurers",
     "D&D homebrew/D&D Homebrew/NPCs/Captains and other",
