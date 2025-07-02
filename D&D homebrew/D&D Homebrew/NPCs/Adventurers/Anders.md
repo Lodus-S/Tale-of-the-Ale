@@ -1,4 +1,3 @@
-
 **Race:** Aasimar  
 **Class:** Fighter
 

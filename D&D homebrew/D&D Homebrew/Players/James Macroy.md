@@ -1,3 +1,6 @@
+**Race:** Goliath 
+**Class:** Sorcerer 
+
 
 
 

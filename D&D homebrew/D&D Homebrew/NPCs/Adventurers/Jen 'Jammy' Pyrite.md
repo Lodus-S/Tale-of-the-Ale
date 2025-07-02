@@ -1,4 +1,3 @@
-
 **Race:** Halfling  
 **Class:** Wizard
 
