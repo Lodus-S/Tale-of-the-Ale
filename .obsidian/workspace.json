@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+                "file": "D&D homebrew/D&D Homebrew/Easter Eggs/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Port"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+                "file": "D&D homebrew/D&D Homebrew/Easter Eggs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Port"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+                "file": "D&D homebrew/D&D Homebrew/Easter Eggs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New Port"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+                "file": "D&D homebrew/D&D Homebrew/Easter Eggs/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Port"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -170,11 +170,22 @@
   },
   "active": "96ba1d837e36c78e",
   "lastOpenFiles": [
+    "D&D homebrew/Images purely for syncs/COS new.png",
+    "D&D homebrew/D&D Homebrew/NPCs/Tovar Searaider.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Wizard Beagle.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Wizard Barbophant.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Shoehorn.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Mayor Ironfist (Tsurlagol).md",
+    "D&D homebrew/D&D Homebrew/NPCs/Hightower Ironfist (Tsurlagol).md",
     "D&D homebrew/D&D Homebrew/NPCs/Hamly.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Holti and Gnolti.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captain Thawrn.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Captain Opal.md",
     "D&D homebrew/D&D Homebrew/NPCs/Captain Anderson.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Anders.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Captain Thawrn.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Litalis Ironfist.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Page.md",
     "D&D homebrew/D&D Homebrew/Locations/New Port.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Holti and Gnolti.md",
     "D&D homebrew/D&D Homebrew/Locations/Procampur.md",
     "D&D homebrew/D&D Homebrew/Story/Session 0.md",
     "D&D homebrew/Images purely for syncs/scene1.png"
