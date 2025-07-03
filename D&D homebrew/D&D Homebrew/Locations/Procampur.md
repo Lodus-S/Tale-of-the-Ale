@@ -7,7 +7,7 @@ The **High Quarter** — home to the wealthy elite, cloaked in shadows and whisp
 
 ![[Procampur.png|750]]
 
-### **Features
+### **Features** 
 
 **The Arena**  
 At the city’s edge, gladiators and adventurers clash for glory, coin, and reputation beneath roaring crowds.
