@@ -4,6 +4,6 @@
 
 
 
-![[James-Portrait (2).png]]
+![[James-Portrait (2).png|650]]
 
 

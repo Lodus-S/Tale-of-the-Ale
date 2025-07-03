@@ -1,5 +1,5 @@
 
 
 
-![[Beegas-Portrait.png]]
+![[Beegas-Portrait.png|650]]
 

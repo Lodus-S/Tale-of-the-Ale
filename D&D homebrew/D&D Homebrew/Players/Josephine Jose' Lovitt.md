@@ -3,4 +3,4 @@
 
 
 
-![[Josephine Jose Lovitt-Portrait.png]]
+![[Josephine Jose Lovitt-Portrait.png|650]]

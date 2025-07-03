@@ -1,4 +1,4 @@
 
 
 
-![[Barbophant-Portrait.png]]
+![[Barbophant-Portrait.png|650]]

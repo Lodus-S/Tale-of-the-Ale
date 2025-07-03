@@ -8,7 +8,7 @@ Anderson “The Dude” is a massive, barrel-chested pirate captain who leads wi
 - His ship the _Battered Flumph_ is a Whydah Gally
 - Was/is Married to Opal?
 
-![[Anderson The Dude-Token.png]]
+![[Anderson The Dude-Token.png|550]]
 
 *DM's private note*
 "The dude" is a reference to the Big Lebowski  

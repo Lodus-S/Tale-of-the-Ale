@@ -3,5 +3,5 @@
 
 
 
-![[Amsel-Portrait.png]]
+![[Amsel-Portrait.png|650]]
 

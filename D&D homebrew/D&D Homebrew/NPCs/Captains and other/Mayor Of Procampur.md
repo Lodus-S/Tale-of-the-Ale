@@ -1,4 +1,4 @@
 
 
-![[Vesper Vampiron-Portrait.png]]
+![[Vesper Vampiron-Portrait.png|650]]
 

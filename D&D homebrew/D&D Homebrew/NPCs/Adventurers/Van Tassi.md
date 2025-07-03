@@ -5,7 +5,7 @@ Van Tassi is a small but wild gnome monk with a loud, cocky charm that makes him
 
 
 
-![[Van tassi-Portrait.png]]
+![[Van tassi-Portrait.png|650]]
 
 
 

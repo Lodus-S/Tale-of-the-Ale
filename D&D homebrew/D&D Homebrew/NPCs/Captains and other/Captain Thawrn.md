@@ -8,7 +8,7 @@ Captain Thawrn is the calm and steady hand of the three, a veteran fighter who l
 
 
 
-![[Thawrn -Portrait.png]]
+![[Thawrn -Portrait.png|650]]
 
 **Ponti** 
 **Race:** Fey Hawk  

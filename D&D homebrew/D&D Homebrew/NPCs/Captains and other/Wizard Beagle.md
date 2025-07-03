@@ -1,4 +1,4 @@
 
 
 
-![[Beagle the Eagle-Portrait.png]]
+![[Beagle the Eagle-Portrait.png|650]]
