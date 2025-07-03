@@ -6,3 +6,6 @@ Beegas is a blind human wizard who breaks every stereotype—muscular, battle-ha
 
 ![[Beegas-Portrait.png|650]]
 
+
+*DM's private note*
+Beegas Dicass, yes but also has a Reroll token as well (2019)

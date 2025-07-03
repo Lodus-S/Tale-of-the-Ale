@@ -6,3 +6,6 @@ Tovar Searaider is a sharp-eyed sea-elf rogue and the tactical mind behind many 
 
 
 ![[Tovar Searaider-Portrait.png|650]]
+
+*DM's private note*
+Tomar but with a v and then Tovar was born

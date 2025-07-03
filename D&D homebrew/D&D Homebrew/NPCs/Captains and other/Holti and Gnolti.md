@@ -13,3 +13,6 @@ Holti is the silver-tongued dwarven face of _Magikal Womderz_, a traveling merch
 Gnolti is Holti’s towering, silent brother—muscle, mystery, and menace all wrapped into one well-groomed dwarf. He speaks only in grunts, but somehow they say more than most full conversations. Tales of his brutal strength echo wherever they travel, but since no one survives a fight with him, they’re mostly speculation... and fear. Always standing behind Holti like a carved statue with a trimmed goatee and arms crossed, he’s the kind of presence that stops fights before they start. Whatever story Gnolti holds behind that silence, only Holti seems to know—and he’s not telling.
 
 ![[Gnolti-Portrait.png|650]] 
+
+*DM's private note*
+Holti and Gnolti were born when I found a funky looking dwarf in talespire and just made it twins

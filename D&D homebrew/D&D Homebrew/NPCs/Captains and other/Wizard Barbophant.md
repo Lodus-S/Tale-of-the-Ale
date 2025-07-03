@@ -5,3 +5,6 @@ Barbophant is a cheerful, slow-talking Loxodon wizard whose booming laugh is onl
 
 
 ![[Barbophant-Portrait.png|650]]
+
+*DM's private note*
+First test at making a Loxodon cause a Elephant never forgets... to FIREBALL

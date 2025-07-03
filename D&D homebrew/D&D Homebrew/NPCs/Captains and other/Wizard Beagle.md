@@ -6,3 +6,6 @@ Beagle the Eagle is a small, sharp-beaked Aarakocra wizard with a mastery over c
 
 
 ![[Beagle the Eagle-Portrait.png|650]]
+
+*DM's private note*
+Beagle the Eagle just rolled of the tongue came before Shi Teal
