@@ -1,7 +1,7 @@
 
 **Session Recap – Umbrimps about to leave**
 
-José caught a glimpse of the Umbrimp, which vanished as Amsel approached—only to reappear and deliver a cryptic message to José. The group regrouped and planned to infiltrate the mayor’s wagon via the druid grove.
+Josié caught a glimpse of the Umbrimp, which vanished as Amsel approached—only to reappear and deliver a cryptic message to José. The group regrouped and planned to infiltrate the mayor’s wagon via the druid grove.
 
 In the grove, they ran into Litalis (vomiting in the bushes) and Turnble (helping him recover). James and Gideon rappelled down to the wagon, where they found a stash: some gems, a letter, and a bottle of perfume labeled **“Aud de Normale’”** — designed to make the wearer smell completely unremarkable.
 
