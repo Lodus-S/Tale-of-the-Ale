@@ -4,7 +4,6 @@ _“A city of contrasts — stone, silk, and secrets.”_
 The **City Proper** — wide grass fields and dusty dirt roads, bustling with friendly folk and honest trades. Black stone walls rise high and strong, guarding against threats from without and within.
 
 The **High Quarter** — home to the wealthy elite, cloaked in shadows and whispers. Rumors swirl that few from the city proper ever cross into this gilded fortress, and fewer still return.
-
 ![[Procampur.png|750]]
 
 ### **Features** 

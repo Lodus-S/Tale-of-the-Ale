@@ -14,3 +14,7 @@ _Kyling, Tide, Edith, Agatha, Shi teal, Gnodger, Davric, Alexy, Gash, Crixus_
 - First map of the Ale Coast
 _This map was recreated in Talespire however more islands have been expanded._
 ![[DND map.png|700]]
+
+
+
+Easter Eggs
