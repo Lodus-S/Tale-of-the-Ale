@@ -5,6 +5,21 @@ Nestled between the jagged **Earthpast Mountains** and the shimmering **Sea of F
 
 Currently led by **Mayor Ironfist**, a stout dwarven veteran, the town thrives on his bold initiative: carving a colossal **trade pass** through the mountains to link Tsurlagol to greater Faerûn.
 
+### **NPCs of the Town
+
+**Inkeeper John**
+Owner of the Jackanape
+**Mynard**
+Local Bard and music enjoyer
+**Phil McKraken**
+Town Mage and magic shop Owner
+**Hilbert**
+Farm owner and Coffee grower
+**NPC Guard, Todd??**
+Got kicked in the head by a horse
+
+
+
 Though calm and humble, the town’s soul shines through its landmarks:
 
 ![[Tsurlagol.png|750]]
@@ -26,20 +41,6 @@ A warm, stone-floored tavern run by **Innkeeper John**, where sooty-faced dwarve
 **Kraken-a-Spell**  
 A cramped but cozy magic shop owned by the pun-loving **Phil McKraken**. Shelves sag under scrolls, trinkets, and dusty kits for hopeful spellcasters or foolish adventurers.
 ![[Tsurlagol Kraken a Spell.png|750]]
-
-
-### **NPCs of the Town
-
-**Inkeeper John**
-Owner of the Jackanape
-**Mynard**
-Local Bard and music enjoyer
-**Phil McKraken**
-Town Mage and magic shop Owner
-**Hilbert**
-Farm owner and Coffee grower
-**NPC Guard, Todd??**
-Got kicked in the head by a horse
 
 
 _DM's private note_

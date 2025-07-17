@@ -6,6 +6,27 @@ The **City Proper** — wide grass fields and dusty dirt roads, bustling with fr
 The **High Quarter** — home to the wealthy elite, cloaked in shadows and whispers. Rumors swirl that few from the city proper ever cross into this gilded fortress, and fewer still return.
 ![[Procampur.png|750]]
 
+### **NPCs of the Town
+
+**Battlemaster Rathin**
+Takes bets and sets up fights in the arena
+**High Priest Martha**
+Leader of the Church
+**Beer Slinger Bib**
+Drinks server at the CoCaC
+**Lorekeeper Specles**
+CoCaC's archive specialist and information broker
+**Anna "Shady Sale" poppin**
+CoCaC Quartermaster and weapons sales
+**Antwel Sellswords**
+A crew of sellswords on another quest
+**Captain Grunt**
+a Captain from no city
+**Libearian Phillipe**
+Librarian of the University
+**Pseudodragon Greg**
+Receptionist at the university 
+
 ### **Features** 
 
 **The Arena**  
