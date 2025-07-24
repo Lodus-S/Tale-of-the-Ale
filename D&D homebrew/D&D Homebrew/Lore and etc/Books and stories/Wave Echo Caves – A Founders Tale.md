@@ -5,7 +5,7 @@ This is the tale of the crew that found the Wave Echo caves and took out the Red
 
 
 **Roidz**
-After turning into a Halfling he set out on his own to change back to human
+After turning into a Halfling he set out on his new quest to change back to human
 ![[Roidz-Portrait.png|300]]
 
 **Liam**
