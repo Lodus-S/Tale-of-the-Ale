@@ -5,7 +5,7 @@ Captain Opal is a striking and lethal drow rogue, commanding her ship, _The Unde
 
 
 - Her Ship is _The Underdark’s Lantern_ a brigantine
-- Was/is Married to Anderson?
+- Was/is Married to [[Captain Anderson|Anderson]]?
 
 ![[Opal-Portrait.png|650]]
 
