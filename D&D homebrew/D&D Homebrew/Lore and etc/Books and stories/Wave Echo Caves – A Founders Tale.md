@@ -6,22 +6,22 @@ This is the tale of the crew that found the Wave Echo caves and took out the Red
 
 **Roidz**
 After turning into a Halfling he set out on his new quest to change back to human
-![[Roidz-Portrait.png|300]]
+![[Roidz-Portrait.png|650]]
 
 **Liam**
 Having a crisis of faith he was not at the end but rumour has it he's living a peaceful life back home
-![[Liam-Portrait.png|300]]
+![[Liam-Portrait.png|650]]
 
 **Dragamore Sliver Tongue**
 After finding the Caves Dragamore settled down in Phandalin to create a school to teach people magic.
-![[Sliver tongue-Portrait.png|300]]
+![[Sliver tongue-Portrait.png|650]]
 
 **Cotton Boik**
 After their relationship became public Cotton and Gundrin quit the live of Nobles and went off together
-![[Cotton Boik Gundrin-Portrait.png|300]]
+![[Cotton Boik Gundrin-Portrait.png|650]]
 
 **Rokhar**
 His friend still a Halfling Rokhar joined along with Roidz to help him change back
-![[Rokhar-Portrait.png|300]]
+![[Rokhar-Portrait.png|650]]
 
 
