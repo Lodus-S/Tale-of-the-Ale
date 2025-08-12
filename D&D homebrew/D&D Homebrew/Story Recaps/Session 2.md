@@ -7,3 +7,6 @@ After getting booted by Innkeeper John, the group regrouped at Gideon’s home. 
 On their way back, things got weird — Amsel spotted a Umbrimp staring intently at Josie’.
 
 And that’s where we wrapped.
+
+
+[[Session 3]]

@@ -24,3 +24,7 @@ Finally, the party made their way to the Tsurlagol gates, met Captain Thawrn, jo
 > Do not involve the Tsurlagol fool beyond coin-counting.
 > 
 > —V.”
+
+
+
+[[Session 4]]

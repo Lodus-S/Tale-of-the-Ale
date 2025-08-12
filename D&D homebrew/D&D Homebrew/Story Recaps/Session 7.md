@@ -16,3 +16,6 @@ Then, the party split:
 - **Gideon & Amsel** hit the shanty town. Gideon, as _Red Jak_, met Batilda again. She filled him in on the guild’s current hideout and some dark news: guards are taking two people a week... for what, no one knows.
     
     - Amsel, flipping the guild coin like a tourist with a death wish, got grabbed by a local who snatched the coin mid-air and asked if he was _"stupid or just looking for trouble?"_ Amsel, grinning, shot back with, _"I can tell you a story of someone real stupid."_
+
+
+[[Session 8]]

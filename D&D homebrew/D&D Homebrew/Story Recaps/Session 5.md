@@ -17,3 +17,5 @@ Next stop: the **University**. They met **Greg**, a curious little pseudodragon,
 Then came some bloodsport at the **arena**. **Gideon** got flattened in his match, while **James** gave a solid showing and came out on top winning but mostly losing some bets.
 
 Finally, the group went to check out their assigned ship: **The Oceanic Duck**. Just as they were about to board, **Gideon** was blindsided by a familiar face—his **sister Isolde** appeared.
+
+[[Session 6]]

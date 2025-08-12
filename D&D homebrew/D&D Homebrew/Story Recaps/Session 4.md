@@ -13,3 +13,8 @@ As she left the ruins, masked attackers appeared all over the camp and launched 
 The attackers had the advantage, but the adventurers held strong. Working together, they drove the masked men back. However, the enemies left no clues behind—when slain, their bodies burst into flame and vanished into ash.
 
 After the battle, tracks were found on the road. They matched the unique wheels of the Procampur mayor’s cart… suggesting he passed through the area during the chaos.
+
+
+
+
+[[Session 5]]

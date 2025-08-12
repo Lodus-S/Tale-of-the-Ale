@@ -28,3 +28,6 @@ Next morning, the party got to business:
     
 
 As they were leaving the docks, they overheard **Genna** talking to a **gnome**. She misses someone, and the gnome said he does too... though it’s been **nearly 20 years** since.
+
+
+[[Session 7]]

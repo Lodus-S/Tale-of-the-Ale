@@ -11,14 +11,10 @@
             "id": "96ba1d837e36c78e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D homebrew/D&D Homebrew/Lore and etc/Books and stories/Wave Echo Caves – A Founders Tale.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wave Echo Caves – A Founders Tale"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,6 +166,15 @@
   },
   "active": "96ba1d837e36c78e",
   "lastOpenFiles": [
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 7.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 6.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 5.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 4.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 3.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 2.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 1.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 0.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Books and stories/Wave Echo Caves – A Founders Tale.md",
     "D&D homebrew/D&D Homebrew/Lore and etc/Books and stories/Warlock for beginners.md",
     "D&D homebrew/D&D Homebrew/Lore and etc/Books and stories/My fae-vourite topic.md",
     "D&D homebrew/D&D Homebrew/Lore and etc/Ships/The Underdark’s Lantern.md",
@@ -187,15 +192,6 @@
     "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Genna Dilinger.md",
     "D&D homebrew/D&D Homebrew/NPCs/Adventurers/Anders.md",
     "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Tovar Searaider.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Holti and Gnolti.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Hamly.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Captain Thawrn.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Captain Opal.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Captains and other/Captain Anderson.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Creatures/Umbrimps.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Creatures/Gray Maw.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Wizard Beegas.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Wizard Beagle.md",
     "D&D homebrew/Images purely for syncs/Talespire/Ships/The Underdark’s Lantern.png",
     "D&D homebrew/D&D Homebrew/Lore and etc/Ships",
     "D&D homebrew/Images purely for syncs/Talespire/Ships/The Oceanic Duck.png",
