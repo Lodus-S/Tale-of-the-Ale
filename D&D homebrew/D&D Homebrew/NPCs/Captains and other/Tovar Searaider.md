@@ -1,3 +1,11 @@
+---
+Race: Sea-Elf
+Class: Rogue
+Sub class:
+Image: "[[Tovar Searaider-Portrait.png]]"
+---
+
+
 **Race:** Sea-Elf  
 **Class:** Rogue
 

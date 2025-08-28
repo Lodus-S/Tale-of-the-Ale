@@ -1,3 +1,10 @@
+---
+Race: Sea-Elf
+Class: Fighter
+Sub class:
+Image: "[[Hamly-Portrait.png]]"
+---
+
 **Race:** Sea-Elf  
 **Class:** Fighter
 

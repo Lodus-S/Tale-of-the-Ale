@@ -1,3 +1,11 @@
+---
+Race: Human
+Class: Fighter
+Sub class:
+Image: "[[Thawrn -Portrait.png]]"
+---
+
+
 **Race:** Human  
 **Class:** Fighter
 

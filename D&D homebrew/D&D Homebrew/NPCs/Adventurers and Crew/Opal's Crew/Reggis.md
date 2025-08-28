@@ -1,3 +1,11 @@
+---
+Race: Dragonborn
+Class: Fighter
+Sub class:
+Image: "[[Reggis-Portrait.png]]"
+---
+
+
 **Race:** Dragonborn  
 **Class:** Fighter
 

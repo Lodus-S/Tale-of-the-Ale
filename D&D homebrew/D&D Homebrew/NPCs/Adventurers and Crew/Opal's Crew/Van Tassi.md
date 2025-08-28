@@ -1,3 +1,11 @@
+---
+Race: Gnome
+Class: Monk
+Sub class:
+Image: "[[Van tassi-Portrait.png]]"
+---
+
+
 **Race:** Gnome  
 **Class:** Monk
 

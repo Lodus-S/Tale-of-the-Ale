@@ -1,3 +1,11 @@
+---
+Race: Human
+Class: Fighter
+Sub class: Gunslinger
+Image: "[[Anderson The Dude-Token.png]]"
+---
+
+
 **Race:** Human (possibly part Goliath)  
 **Class:** Gunslinger Fighter
 

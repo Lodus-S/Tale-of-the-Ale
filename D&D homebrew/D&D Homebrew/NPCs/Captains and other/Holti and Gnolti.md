@@ -1,3 +1,10 @@
+---
+Race: Dwarves
+Class: NPC
+Sub class: Salesman
+Image: "[[Holti-Portrait.png]]"
+---
+
 **Race:** Dwarf  
 **Class:** Salesman
 
@@ -5,6 +12,7 @@ Holti is the silver-tongued dwarven face of _Magikal Womderz_, a traveling merch
 
 
 ![[Holti-Portrait.png|650]]
+
 
 **Gnolti**  
 **Race:** Dwarf  

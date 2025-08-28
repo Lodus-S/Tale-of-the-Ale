@@ -1,3 +1,11 @@
+---
+Race: Gnome
+Class: Rogue
+Sub class:
+Image: "[[Pup-Portrait.png]]"
+---
+
+
 **Race:** Gnome  
 **Class:** Rogue
 

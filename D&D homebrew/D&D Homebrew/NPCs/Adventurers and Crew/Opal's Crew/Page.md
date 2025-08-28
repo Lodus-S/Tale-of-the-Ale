@@ -1,3 +1,11 @@
+---
+Race: Changeling
+Class: Ranger
+Sub class:
+Image: "[[Page-Portrait.png]]"
+---
+
+
 **Race:** Changeling  
 **Class:** Ranger
 

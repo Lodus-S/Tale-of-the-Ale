@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Card View
+    filters:
+      and:
+        - file.hasProperty("Image")
+    order:
+      - file.name
+      - Race
+      - Class
+    cardSize: 220
+    image: note.Image
+    imageAspectRatio: 1
+    imageFit: ""
