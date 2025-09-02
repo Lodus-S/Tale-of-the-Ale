@@ -1,3 +1,5 @@
+**Session Recap – Fist Bash and Drink Clash **
+
 Gideon and James fought their way through the tournament, winning their matches and earning a chance to face the Champion. While they fought, Amsel slipped away to the main booth, quietly stealing a pearl necklace from the winners’ pile without anyone noticing.
 
 The Champion made quick work of Gideon and James, but since it was just an encore match, they still claimed the treasure pile. José examined the necklace and identified it as _The Pearl Leaf_, a magical item.
