@@ -26,6 +26,8 @@ a Captain from no city
 Librarian of the University
 **Pseudodragon Greg**
 Receptionist at the university 
+**Chris The Druid**
+He's a Druid at the Earthpast Lifetree
 
 ### **Features** 
 
