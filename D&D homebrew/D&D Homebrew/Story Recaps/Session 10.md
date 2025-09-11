@@ -1,4 +1,4 @@
-**Session Recap – **
+**Session Recap –  Tree Spirit**
 
 The party entered the conjured realm and met the bartender **Tallow**, who attempted to explain how the place exists—though his words went mostly over everyone’s heads. While the lads shared a drink, **José** slipped away to relax in the Lamplight Inn’s springs.
 

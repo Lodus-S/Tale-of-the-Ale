@@ -1,0 +1,1 @@
+This book contains diagrams and guides on how to maintain various ships. 
