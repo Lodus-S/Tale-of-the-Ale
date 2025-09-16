@@ -1,7 +1,7 @@
 **Session Recap – The Deck of Magical Things? **
 
 
-After speaking with Chris, the party learned that the Mage Eye was inert until a spell was cast on it, which caused it to charge. Chris thanked them for their help with the Earthpast Lifetree but still escorted them out to avoid conflict with the other druids. The party returned to New Port, noting the Umprimps were hiding from Chris for some reason.
+After speaking with Chris, the party learned that the Mage Eye was inert until a spell was cast on it, which caused it to charge. Chris thanked them for their help with the Earthpast Lifetree but still escorted them out to avoid conflict with the other druids. The party returned to New Port, noting the Umbrimps were hiding from Chris for some reason.
 
 Meanwhile, Holti and Gnolti were preparing their ship, _The Deck of Magical Things_, though their stock was running low. They mentioned maybe going dungeon crawling to restock.
 
