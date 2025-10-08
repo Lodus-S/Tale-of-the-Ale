@@ -15,12 +15,12 @@ By morning, the crew was ready to sail once more. They left the tranquil shores 
 
 Note Found in the Book
 
-“We charted a course farther east than the others dared, past reefs that tore the sea white with foam. It was there, on the edge of the unknown, that we struck the barrier. At first, we thought it nothing more than air shimmering like heat on the horizon. A trick of the tropics. But when Harlun touched it—
+*“We charted a course farther east than the others dared, past reefs that tore the sea white with foam. It was there, on the edge of the unknown, that we struck the barrier. At first, we thought it nothing more than air shimmering like heat on the horizon. A trick of the tropics. But when Harlun touched it—*
 
-Gods, I cannot forget the sound. A burst, like glass shattering inside his skull. He screamed once, short and sharp, before his eyes went wide and blood poured from his nose. He fell without breath. Nothing struck him—nothing touched him—yet he was gone.
+*Gods, I cannot forget the sound. A burst, like glass shattering inside his skull. He screamed once, short and sharp, before his eyes went wide and blood poured from his nose. He fell without breath. Nothing struck him—nothing touched him—yet he was gone.*
 
-I threw my dagger through the shimmer, and it passed cleanly. Wood, stone, rope—no matter. But flesh? Flesh is not welcome there.
+*I threw my dagger through the shimmer, and it passed cleanly. Wood, stone, rope—no matter. But flesh? Flesh is not welcome there.*
 
-I do not know what holds the Ale Coast shut from us, only that it is a wall that spares no mortal mind. If you would follow where we failed, pray you find a way to shield yourself—or leave this place and curse the sea as we did.
+*I do not know what holds the Ale Coast shut from us, only that it is a wall that spares no mortal mind. If you would follow where we failed, pray you find a way to shield yourself—or leave this place and curse the sea as we did.*
 
-He is still dreaming. He must be.”
+*He is still dreaming. He must be.”*

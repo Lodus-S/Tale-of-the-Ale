@@ -24,4 +24,6 @@ After their relationship became public Cotton and Gundrin quit the live of Noble
 His friend still a Halfling Rokhar joined along with Roidz to help him change back
 ![[Rokhar-Portrait.png|650]]
 
-
+**Montra**
+After killing a child during the quest to find wave echo cave things were tense between the party, rumor has it he left after the quest and found his way to leader of a thieves guild.
+![[Montra-Portrait.png]]
