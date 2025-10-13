@@ -1,6 +1,6 @@
 **Session Recap — “The Island of Rest and Roar”**
 
-After reaching the tropical island, the party began their search for the old ship _Mary_ — the very one Mary herself once sailed on. The wreck was half-buried in sand and coral, creaking with the weight of years. Inside, they found more than rot and ruin — they found Fishfolk waiting in ambush.
+After reaching the tropical island, the party began their search for the old ship — the very one Mary herself once sailed on. The wreck was half-buried in sand and coral, creaking with the weight of weeks. Inside, they found more than rot and ruin — they found Fishfolk waiting in ambush.
 
 The battle was fierce but short-lived, ending with the party standing among the fallen scales of their would-be captors. While searching the wreckage, Jose’ discovered the captain’s journal — and tucked within, a dark and foreboding letter that hinted at deeper troubles yet to come.
 
