@@ -10,3 +10,6 @@
 - [[Gideon Seastone]]
 - [[Kegger]]
 - [[Turnble]]
+- [[Slapzy]]
+- [[Peach]]
+- [[Mary]]

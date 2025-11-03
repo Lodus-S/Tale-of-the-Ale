@@ -1,0 +1,1 @@
+A book of vampire and vampire spawn physiology. Very simplified so anyone that can read can understand what they might be dealing with.

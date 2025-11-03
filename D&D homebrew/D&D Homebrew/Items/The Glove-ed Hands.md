@@ -3,3 +3,5 @@ Scales adorn the gloves. They fit very comfortably on the wearer. Once attuned t
 Attuned
 - +1 Dex saves
 - Can cast the cantrip Shocking grasp 
+
+![[The Glove ed Hands-Portrait.png|650]]

@@ -20,3 +20,8 @@ _This map was recreated in Talespire however more islands have been expanded._
 
 
 Easter Eggs
+Darren Island with Kurt living on it.... hahaha
+
+and image of the players
+![[scene.png]]
+*Emmie, Kyle, Wikus, Walter, Lodus*

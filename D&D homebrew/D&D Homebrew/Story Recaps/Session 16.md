@@ -1,4 +1,4 @@
-### **Session Recap: Storm After the Flame**
+ **Session Recap: Storm After the Flame**
 
 After defeating the dragon, heavy rain poured across the island as the volcano’s fury died down. Searching the now-quiet crater revealed no hidden treasure or secret the dragon had guarded. With nothing else to find, the party dismantled the dragon’s bust and brought it aboard the ship.
 
