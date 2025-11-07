@@ -1,7 +1,7 @@
 **Race:**  Human
 **Class:** Barbarian
 
-Javon... Guy seems to not know anything about the outside world now. Imagine being trapped and tortured for 15 years, I'm surprised he's not completely crazy! He's get a score to settle with [[Sliver]] the man that kept him.
+Javon... Guy seems to not know anything about the outside world now. Imagine being trapped and tortured for 15 years, I'm surprised he's not completely crazy! He's get a score to settle with [[Sliver the Doctor]] the man that kept him.
 
 
 ![[Welles Javon-Portrait.png|650]]

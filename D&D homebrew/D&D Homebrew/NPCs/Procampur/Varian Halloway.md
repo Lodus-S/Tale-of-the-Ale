@@ -2,7 +2,7 @@
 **Class:** Fighter
 
 An unknown to the party except one. Varian was part of the Tsurlagol group in Procampur however as [[Isolde Seastone]] said "He left to meet someone in the second sector of the city".
-Nobody knows where he is now.
+Nobody knows where he is now... He's dead.
 
 ![[Varian Halloway-Portrait.png|650]]
 

@@ -1,4 +1,6 @@
-**Session Recap — “The Final Episode: Scales of Honor”**  
+**Race:**  Fishfolk
+**Class:** Coral Samurai
+
 _As told by Koi’jin the Neck-Gilled Ronin_
 
 The waves whispered my name this morning — _Koi’jin_, the last survivor of the Coral Clan. I could smell destiny on the wind, the scent of strangers and steel. When I saw their ship approach the shore, I knew... my arc was about to begin.
@@ -18,3 +20,8 @@ A blade pierces my side — I can taste salt and irony. The world fades. The las
 > and better loot drops…”
 
 And as the tide pulls me away, the theme song swells — _“My Gill, My Destiny ~Re:Reborn of the Coral Samurai~”_
+
+![[Fishfolk Koijin-Portrait.png|650]]
+
+*DM's private note*
+Just a fun Little joke
