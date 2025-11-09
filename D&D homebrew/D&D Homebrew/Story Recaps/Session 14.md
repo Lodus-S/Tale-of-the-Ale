@@ -24,3 +24,5 @@ Note Found in the Book
 *I do not know what holds the Ale Coast shut from us, only that it is a wall that spares no mortal mind. If you would follow where we failed, pray you find a way to shield yourself—or leave this place and curse the sea as we did.*
 
 *He is still dreaming. He must be.”*
+
+[[Session 15]]

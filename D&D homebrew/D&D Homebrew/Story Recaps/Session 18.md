@@ -17,3 +17,5 @@ Gray Maws swarmed, cut down by the party, but the Strangeman proved devastating.
 Meanwhile, Litalis and Hightower fought Dr. Sliver and Varian. When the party regrouped, they found **Varian impaled** against the wall by Hightower’s javelin, **Dr. Sliver gone**, and **Hightower poisoned** by the doctor’s toxins.
 
 Seeing Varian dead, **Gideon silently walked out**, leaving the factory without a word. The rest gathered what they could and escaped through the sewers. Emerging by the Arena, they split — Litalis and the Ironfists rushed Hightower to the CoCaC for treatment, while the party went to track down Gideon.
+
+[[Session 19]]

@@ -13,3 +13,5 @@ Regrouping, the party visited the **Church**, where _Priestess Martha_ gifted th
 Then came the infiltration. Choosing the **lower route**, the group moved through the sewers, stealthily eliminating guards upon reaching the factory’s outer entrance. Inside, they were met with a shocking sight—**Mayor Vesper of Procampur** and an **unknown elf**, holding **Janko** hostage. The pair escaped through a secret tunnel, unleashing **Grey Maws** to delay the party.
 
 After a short battle, the party stood victorious. Soon after, they received a message from **Litalis**—his team had also entered the factory, found the **hostages**, and discovered **where the Grey Maws teleport when defeated**.
+
+[[Session 18]]

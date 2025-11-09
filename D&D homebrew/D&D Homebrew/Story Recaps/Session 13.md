@@ -9,3 +9,5 @@ Gideon disguised himself as the fallen sniper and lured the pirates away, giving
 The rescued hostages turned out to be Mary and Peach, sailors from a wrecked ship. They explained that while most of their crew had already been saved, they were caught by the pirates while gathering supplies.
 
 With everyone safe aboard, the party set sail again, heading toward the tropical island where their ship awaited.
+
+[[Session 14]]

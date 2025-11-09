@@ -20,3 +20,5 @@ With one final roar, the beast fell. The **ash cleared**, the **fog lifted**, an
 
 They’d done it.  
 The **Ale Coast awaited**, and the **dragon lay slain**.
+
+[[Session 16]]

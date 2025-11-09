@@ -7,9 +7,9 @@ However you recognise some creatures in this book
 **Fey Hawk**
 Close to its cousin the Phoenix yet less sought after. Very loyal birds capable of casting spells.
 
-![[Fay Hawk Ponti-Portrait.png|300]]
+![[Fay Hawk Ponti-Portrait.png|650]]
 **Sprite**
 Fairly common creatures most are free making deals to mess with people.
 
-![[Sprite-Portrait.png|300]]
+![[Sprite-Portrait.png|650]]
 

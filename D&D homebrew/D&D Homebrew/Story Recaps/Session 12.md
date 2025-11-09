@@ -5,3 +5,5 @@ After fending off the Gray Maw aboard the _Battered Flumph_, the party confronte
 The next morning, the party set sail for Darren Island to investigate a wreck. What they found were only empty containers, identical to those recovered from the _Battered Flumph_. Searching further, they discovered the local resident, Kurt, slain and torn apart. Before they could gather their thoughts, they were ambushed by another wave of Gray Maw—this brood stronger, twisted, and clearly feeding on something.
 
 In the chaos of battle, Gideon went down. Jose, watching closely, noticed something strange about him—something off, unnatural. Yet when she tried to voice it, only curses and expletives spilled from her mouth, as though the truth itself was being smothered.
+
+[[Session 13]]

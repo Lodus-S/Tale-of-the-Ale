@@ -9,3 +9,5 @@ The conversation quickly soured. Frustrations boiled over about being sent to ch
 The party sailed back to Procampur. Reunited at the Lamplight Inn, the group discussed how to infiltrate the factory and rescue those trapped inside. But trust was fragile — suspicion clouded every word.
 
 Before splitting up, they agreed to meet again later that day. Jose buried herself in research on vampires at the university, while James met _Sage Axel_, who forged a pair of gloves from the slain dragon’s scales.
+
+[[Session 17]]

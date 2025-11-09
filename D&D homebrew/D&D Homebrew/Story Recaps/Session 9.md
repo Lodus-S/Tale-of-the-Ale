@@ -7,3 +7,5 @@ The Champion made quick work of Gideon and James, but since it was just an encor
 The party celebrated at the CoCaC, buying a round for the whole tavern—cheers erupted, even from Holti and Gnolti watching from a balcony booth. There, the Thieves Guild leader, Montra, introduced himself. He revealed that the mayor had agreed to “fund” the expedition but suspiciously requested a cargo shipment aboard _The Battered Flumph_, Captain Anderson’s ship. Montra also hinted that the Ale Coast mystery could be tied to a powerful crystal known as _Mage Eye_, capable of storing spells.
 
 Heading downstairs, the party met Specles the Batfolk, who identified their wand. When aimed at a door, it conjured a room leading into a cozy tavern. As they explored, a ghostly bartender appeared, ready to serve and assist them.
+
+[[Session 10]]

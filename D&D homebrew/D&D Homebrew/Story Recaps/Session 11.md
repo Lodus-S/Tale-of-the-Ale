@@ -12,3 +12,5 @@ The party then joined Genna aboard the _Battered Flumph_ for what was supposed t
 During the tour, the group mingled with another adventuring party, while Amsel went snooping in the cargo hold. Opening one crate revealed a lifeless body — strangely familiar to him, though he couldn’t place it. When Decy cast _Dancing Lights_, the body’s eyes lit up, and Gray Maw burst free, attacking the ship.
 
 A fierce battle broke out on the deck, but the adventurers won. Still, no one knew how Gray Maw had gotten aboard. Now, Genna and the party are determined to confront Captain Anderson to see if he was involved or in the dark.
+
+[[Session 12]]

@@ -7,3 +7,5 @@ After exploring the inn, the group returned to the **CoCaC**. José retired for
 The next day, the adventurers traveled to the **Earthpast Life Tree**, a druidic gathering ground. There they met **Chris** once again, who explained that strange material was growing from the tree. The crystal was identified as **Mage Eye**, and while the party examined it, José felt compelled to set it ablaze. The crystal erupted, summoning a **Mage Eye-infused Earth Elemental**. After a hard-fought battle, José entered deeper into the tree while the others covered for her.
 
 With the suppression on the Earthpast Life Tree lifted, a radiant **Arch-Fae** appeared before José—her Patron, **Naiadra Lumara**. Regal and breathtaking, Naiadra thanked José, promised to keep an eye on her, and vanished once more.
+
+[[Session 11]]
