@@ -7,3 +7,4 @@ Seems to more focused on putting on a show at his Arena than actually doing any 
 
 _DM's private note_
 I wanted a big tough Vampire lord that won't use tricks but rather maim and brutalise you.
+[[Procampur Vampire menace|.]]

@@ -7,4 +7,4 @@ Turnble is a noble-hearted half-orc cleric, wandering in search of a home that m
 ![[Turnble OG-Portrait.png|650]]
 
 *DM's private note*
-He looks familiar. 
+He looks familiar[[Ale Coast|.]] 

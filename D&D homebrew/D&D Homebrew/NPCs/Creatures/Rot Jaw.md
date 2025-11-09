@@ -7,4 +7,4 @@ Like the [[Gray Maw]] the Rot Jaw seem more feral and tougher. They're fed and r
 ![[Rot Jaw-Portrait.png|650]]
 
 *DM's private note*
-Just Gray Maw without the suits improvements and more feral
+Just Gray Maw without the suits improvements and more feral[[Procampur Vampire menace|.]] 

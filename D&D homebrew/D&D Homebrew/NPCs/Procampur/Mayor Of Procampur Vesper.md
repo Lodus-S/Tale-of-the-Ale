@@ -14,3 +14,4 @@ Sent out Gray Maw to other towns and might become a problem.
 
 *DM's private note*
 His hat comes from the Show *what we do in the shadows*. Its a hat made from the skins of witches so obviously its cursed.
+[[Procampur Vampire menace|.]]

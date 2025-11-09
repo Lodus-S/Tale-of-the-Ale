@@ -8,4 +8,4 @@ Antwel Company were one of the first groups that were sent to find the Ale Coast
 
 
 *DM's private note*
-I wanted a mercenary Company that would have been a rival to the party but for now they're in the background. 
+I wanted a mercenary Company that would have been a rival to the party but for now they're in the background[[Procampur First Section|.]] 

@@ -8,4 +8,4 @@ Taught the party to use the want and summon the Lamplight Inn
 ![[Lorekeeper Specles-Portrait.png|650]]
 
 *DM's private note*
-I love doing the lil snort voice and a nerd that knows objects seemed fun
+I love doing the lil snort voice and a nerd that knows objects seemed fun[[Guild of the Weave|.]] 

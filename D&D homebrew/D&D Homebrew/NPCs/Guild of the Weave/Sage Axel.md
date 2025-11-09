@@ -8,4 +8,4 @@ Created [[The Glove-ed Hands]]
 ![[Sage Axel-Portrait.png|650]]
 
 *DM's private note*
-wanted to do a Kermit voice and he seemed good for it
+wanted to do a Kermit voice and he seemed good for it[[Guild of the Weave|.]] 

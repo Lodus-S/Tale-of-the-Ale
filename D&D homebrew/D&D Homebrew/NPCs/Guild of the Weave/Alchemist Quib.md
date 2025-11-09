@@ -6,4 +6,4 @@ Self proclaimed greatest magic detective and just works as an alchemist to pay t
 ![[Quib-Portrait.png|650]]
 
 *DM's private note*
-IT guy but in magic world
+IT guy but in magic world[[Guild of the Weave|.]] 

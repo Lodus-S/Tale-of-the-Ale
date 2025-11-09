@@ -1,11 +1,3 @@
----
-Race: Goliath
-Class: Fighter
-Sub class:
-Image: "[[Tough Guy Took-Portrait.png]]"
----
-
-
 **Race:** Goliath  
 **Class:** Fighter
 

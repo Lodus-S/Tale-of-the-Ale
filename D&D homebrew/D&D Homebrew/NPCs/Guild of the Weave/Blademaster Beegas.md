@@ -8,4 +8,4 @@ Beegas is a blind human wizard who breaks every stereotype—muscular, battle-ha
 
 
 *DM's private note*
-Beegas Dicass, yes but also has a Reroll token as well (2019)
+Beegas Dicass, yes but also has a Reroll token as well (2019)[[Guild of the Weave|.]] 

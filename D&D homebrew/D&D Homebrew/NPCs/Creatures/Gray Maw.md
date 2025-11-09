@@ -6,4 +6,4 @@ The Gray Maw are eerie, silent soldiers who ambushed the adventurers under the c
 ![[Grey Maw-Portrait.png|650]]
 
 *DM's private note*
-left over from adapted RHPD campaign and now better than ever
+left over from adapted RHPD campaign and now better than ever[[Procampur Vampire menace|.]] 

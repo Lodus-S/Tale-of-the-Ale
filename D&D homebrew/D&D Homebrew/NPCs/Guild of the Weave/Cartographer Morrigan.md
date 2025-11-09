@@ -6,4 +6,4 @@ Morrigan is a sleek, sharp-eyed tabaxi with ink-stained fur and a perpetual scen
 ![[Morrigan-Portrait.png|650]]
 
 _DM's private note_
-a Real MVP from my Dragons Dogma playthrough, I miss that cat man. 
+a Real MVP from my Dragons Dogma playthrough, I miss that cat man. [[Guild of the Weave|.]] 

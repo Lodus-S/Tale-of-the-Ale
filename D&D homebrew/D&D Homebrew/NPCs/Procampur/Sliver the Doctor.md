@@ -6,4 +6,4 @@ Sliver the one who runs the Factory. He's ruthless and sadistic, seemingly cutti
 ![[Sliver-Portrait.png|650]]
 
 *DM's private note*
-unintentionally looks like Leonard Nimoy
+unintentionally looks like Leonard Nimoy[[Procampur Vampire menace|.]]

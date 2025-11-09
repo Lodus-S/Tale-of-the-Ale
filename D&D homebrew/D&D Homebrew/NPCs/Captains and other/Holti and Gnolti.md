@@ -1,10 +1,3 @@
----
-Race: Dwarves
-Class: NPC
-Sub class: Salesman
-Image: "[[Holti-Portrait.png]]"
----
-
 **Race:** Dwarf  
 **Class:** Salesman
 

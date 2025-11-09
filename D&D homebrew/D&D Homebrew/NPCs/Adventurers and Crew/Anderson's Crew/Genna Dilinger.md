@@ -1,11 +1,3 @@
----
-Race: Half-Elf
-Class: Artificer
-Sub class:
-Image: "[[Genna Dilinger-Portrait.png]]"
----
-
-
 **Race:** Half-Elf  
 **Class:** Artificer
 

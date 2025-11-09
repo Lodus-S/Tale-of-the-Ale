@@ -7,4 +7,4 @@ Hightower Ironfist is the no-nonsense captain of the guard in Tsurlagol, with a 
 ![[Hightower Ironfist-Token.png|650]]
 
 *DM's private note*
-Hightower named after Hightower from Police academy
+Hightower named after Hightower from Police academy[[Clan Ironfist|.]] 

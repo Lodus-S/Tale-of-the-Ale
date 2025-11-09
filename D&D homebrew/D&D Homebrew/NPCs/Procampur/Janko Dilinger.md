@@ -9,4 +9,4 @@ Janko seems like a smart guy, he's got an air of a caring grandpa. Knows or take
 
 
 *DM's private note*
-I'm just gonna write it here for anyone reading this Janko is Gnodger's "Dad" (not blood related)...
+I'm just gonna write it here for anyone reading this Janko is Gnodger's "Dad" (not blood related)... [[Procampur First Section|.]] 

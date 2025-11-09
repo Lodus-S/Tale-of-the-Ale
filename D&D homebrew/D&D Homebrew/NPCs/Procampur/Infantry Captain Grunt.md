@@ -8,4 +8,4 @@ Last seen leaving on a Ship.
 
 
 *DM's private note*
-His skin is two toned and split in half and I think that's pretty neat 
+His skin is two toned and split in half and I think that's pretty neat [[Ale Coast|.]] 

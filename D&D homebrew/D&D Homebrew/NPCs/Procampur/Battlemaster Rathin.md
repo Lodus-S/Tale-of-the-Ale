@@ -7,4 +7,4 @@ The owner/ fight arranger of the Arena in Procampur, takes all bets but mostly w
 ![[Battlemaster Rathin-Portrait.png|650]]
 
 *DM's private note*
-Arena's are cool and I needed a dude for it.
+Arena's are cool and I needed a dude for it[[Procampur First Section|.]] 

@@ -1,11 +1,3 @@
----
-Race: Gnome
-Class: Barbarian
-Sub class:
-Image: "[[Shoehorn-Portrait.png]]"
----
-
-
 **Race:** Gnome  
 **Class:** Barbarian
 

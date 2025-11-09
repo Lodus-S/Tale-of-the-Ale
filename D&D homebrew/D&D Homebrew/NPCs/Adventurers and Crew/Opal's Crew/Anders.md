@@ -1,11 +1,3 @@
----
-Race: Aasimar
-Class: Fighter
-Sub class:
-Image: "[[Anders-Portrait.png]]"
----
-
- 
 **Race:** Aasimar  
 **Class:** Fighter
 

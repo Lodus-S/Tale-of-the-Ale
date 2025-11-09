@@ -1,3 +1,4 @@
+![[Curse of Strahd logo.png|300]]
 
 A seemingly fictional story about the land of Barovia and how a very humble hunter and his lovely assistant fought a dreaded vampire Lord. Accompanied by a crew of various adventures. 
 

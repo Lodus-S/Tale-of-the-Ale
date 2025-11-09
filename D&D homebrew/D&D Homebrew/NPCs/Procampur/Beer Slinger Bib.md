@@ -5,6 +5,6 @@ Owner and bartender of the CoCaC. By day serving drinks and by night renting she
 
 ![[Beer Slinger Bib-Portrait.png|650]]
 
-Keg Golem speaks very plainly and understands drink orders well enough.
+Keg Golem speaks very plainly and understands drink orders well enough[[Procampur First Section|.]] 
 
 ![[Keg Golem-Portrait.png|650]]

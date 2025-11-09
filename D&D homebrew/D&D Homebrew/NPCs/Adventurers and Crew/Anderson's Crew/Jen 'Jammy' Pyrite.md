@@ -1,11 +1,3 @@
----
-Race: Halfling
-Class: Wizard
-Sub class:
-Image: "[[Jen Jammy Pyrite-Token.png]]"
----
-
-
 **Race:** Halfling  
 **Class:** Wizard
 

@@ -11,4 +11,4 @@ Drunk and stubborn to a fault.
 ![[Litalis Spymaster-Portrait (1).png|650]]
 
 *DM's private note*
-my first DnD character
+my first DnD character[[Clan Ironfist|.]] 

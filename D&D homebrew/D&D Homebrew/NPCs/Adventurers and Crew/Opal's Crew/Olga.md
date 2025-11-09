@@ -1,13 +1,3 @@
----
-Race: Human
-Class: Barbarian
-Sub class:
-Image: "[[Olga-Portrait.png]]"
----
-
-
-
-
 **Race:** Human  
 **Class:** Barbarian
 
