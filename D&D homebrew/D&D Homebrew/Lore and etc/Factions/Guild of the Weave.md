@@ -1,0 +1,1 @@
+Guild of the Weave is not really a club or a guild but more just a name for the wizards and mages that work and contribute to the University of Procampur.

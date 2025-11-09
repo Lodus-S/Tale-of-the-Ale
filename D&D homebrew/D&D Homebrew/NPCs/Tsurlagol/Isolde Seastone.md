@@ -10,4 +10,4 @@ Protected for [[Infantry Captain Grunt]]
 
 ![[Isolde Seastone-Portrait.png|650]]
 
-[[D&D homebrew/D&D Homebrew/Factions/Tsurlagol Guard|.]] 
+[[D&D homebrew/D&D Homebrew/Lore and etc/Factions/Tsurlagol Guard|.]] 

@@ -1,5 +1,6 @@
 {
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }

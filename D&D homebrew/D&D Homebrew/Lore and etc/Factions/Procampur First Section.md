@@ -1,0 +1,2 @@
+Various guards and militia keep the section safe from the gates to New Port all the way to the Earthpast Lifetree thats still technically in Procampurs borders.
+Battlemaster Rathin, when he's not running fights at his arena he assists in training some of the guards to keep them trained incase any thing was to happened.
