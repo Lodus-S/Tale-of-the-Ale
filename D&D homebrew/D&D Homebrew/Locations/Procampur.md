@@ -32,13 +32,13 @@ He's a Druid at the Earthpast Lifetree
 ### **Features** 
 
 **The Arena**  
-At the city’s edge, gladiators and adventurers clash for glory, coin, and reputation beneath roaring crowds.
+At the city’s edge, gladiators and adventurers clash for glory, coin, and reputation beneath roaring crowds. [[talespire://published-board/UHJvY2FtcHVyIEFyZW5h/1785ee7741191dbcc3c11fad729bb092|TS Map]] 
 
 **The Shops**  
 A compact but lively district with a skilled blacksmith hammering steel, a colorful clothier crafting fine garments, trinket stalls tempting tourists, and a rough-and-ready bunkhouse for weary travelers. A local park offers rare green respite amidst stone and dirt.
 
 **The Church**  
-A magnificent chapel that welcomes all faiths, especially devoted to **Helm, Tymora, Oghma, Torm, and Waukeen**—each altar crafted with reverence, their icons gleaming in stained glass and polished marble.
+A magnificent chapel that welcomes all faiths, especially devoted to **Helm, Tymora, Oghma, Torm, and Waukeen**—each altar crafted with reverence, their icons gleaming in stained glass and polished marble. [[talespire://published-board/UHJvY2FtcHVyIENodXJjaA==/ed8bf8eb4c1295c504fd529dac0a6488|TS Map]] 
 
 ![[Procampur Markets and arena.png|750]]
 
@@ -54,14 +54,13 @@ A grimy river fishing hamlet sandwiched between Procampur and Tsurlagol, named f
 ![[Crooksnook.png|750]]
 
 **The Guildhall**  
-Headquarters of the **Cabal of the Crown Adventuring Company (CoCaC)**, a rowdy tavern and meeting hall where hardened adventurers swap tales, plan jobs, and drown their sorrows.
+Headquarters of the **Cabal of the Crown Adventuring Company (CoCaC)**, a rowdy tavern and meeting hall where hardened adventurers swap tales, plan jobs, and drown their sorrows. [[talespire://published-board/UHJvY2FtcHVyIFRhdmVybg==/2c5845284b8c7d044cb8f38f42ac761a|TS Map]]
 
 **The University**  
-A sprawling academy where wizards, mages, and warlocks unravel the mysteries of the Weave, surrounded by towers, libraries, and enchanted gardens.
+A sprawling academy where wizards, mages, and warlocks unravel the mysteries of the Weave, surrounded by towers, libraries, and enchanted gardens. [[talespire://published-board/UHJvY2FtcHVyIFVuaXZlcg==/9038fe9044bfa737c77f3eaa05d4d721|TS Map]] 
 
 ![[Procampur Tavern and Collage.png|750]]
 
 **The Earthpast Lifetree**  
-A small village nestled just outside Procampur’s walls, rich in nature’s magic. The druidic folk live in harmony with the ancient lifetree, their ways a quiet contrast to city life.
-
+A small village nestled just outside Procampur’s walls, rich in nature’s magic. The druidic folk live in harmony with the ancient lifetree, their ways a quiet contrast to city life. [[talespire://published-board/cHJvY2FtcHVyIExpZmV0cmVl/af3a859f46eec5012af75ba6896b8319|TS Map]] 
 ![[Earthpast Lifetree.png|750]]

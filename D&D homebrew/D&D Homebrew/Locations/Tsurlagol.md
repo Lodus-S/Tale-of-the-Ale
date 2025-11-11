@@ -26,6 +26,7 @@ Though calm and humble, the town’s soul shines through its landmarks:
 
 **The Grove**  
 A secluded forested canyon, magically grown by the local druid **Chris**. Used as a test of spirit and investigation, it hosts challenges for wandering adventurers. It's a little scavenger hunt.
+
 ![[Tsurlagol Grove.png|750]]
 
 **The Fair**  
@@ -40,8 +41,9 @@ A warm, stone-floored tavern run by **Innkeeper John**, where sooty-faced dwarve
 
 **Kraken-a-Spell**  
 A cramped but cozy magic shop owned by the pun-loving **Phil McKraken**. Shelves sag under scrolls, trinkets, and dusty kits for hopeful spellcasters or foolish adventurers.
+
 ![[Tsurlagol Kraken a Spell.png|750]]
 
 
 _DM's private note_
-This was a addition and the new starting point when the theme pivoted to a more sailor-y vibe.
+This was a addition and the new starting point when the theme pivoted to a more sailor-y vibe.[[talespire://published-board/VHN1cmxhZ29s/2157f34b44b073d678f771804b23394d|TS Map]] 

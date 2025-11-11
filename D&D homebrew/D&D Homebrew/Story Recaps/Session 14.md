@@ -15,7 +15,7 @@ By morning, the crew was ready to sail once more. They left the tranquil shores 
 
 Note Found in the Book
 
-*“We charted a course farther east than the others dared, past reefs that tore the sea white with foam. It was there, on the edge of the unknown, that we struck the barrier. At first, we thought it nothing more than air shimmering like heat on the horizon. A trick of the tropics. But when Harlun touched it—*
+*“We charted a course farther east than the others dared, past reefs that tore the sea white with foam. It was there, on the edge of the unknown, that we struck the barrier. At first, we thought it nothing more than air shimmering like heat on the horizon. A trick of the tropics. But when Harlun touched it—* 
 
 *Gods, I cannot forget the sound. A burst, like glass shattering inside his skull. He screamed once, short and sharp, before his eyes went wide and blood poured from his nose. He fell without breath. Nothing struck him—nothing touched him—yet he was gone.*
 

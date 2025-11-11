@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4513cc1fd2bffe",
+        "id": "cfa47899ff20d108",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3400b984d694a9",
+            "id": "a277e725039b3759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Sage Axel.md",
+                "file": "D&D homebrew/D&D Homebrew/Progress and Plans.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sage Axel"
+              "title": "Progress and Plans"
+            }
+          },
+          {
+            "id": "8183610e7801ca78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,34 +182,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a3400b984d694a9",
+  "active": "8183610e7801ca78",
   "lastOpenFiles": [
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Scribe Beagle.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Sage Axel.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Pseudodragon Greg.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Libearian Phillipe.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Lorekeeper Specles.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Cartographer Morrigan.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Blademaster Beegas.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Astronomer Barbophant.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Alchemist Quib.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Welles Javon.md",
+    "D&D homebrew/D&D Homebrew/DM's lil corner of stuff.md",
+    "HF API/ 822f0776ed80174bfbb521ba06e8b93c441007511b455d1291341997898fd711.md",
+    "HF API",
+    "HF API 822f0776ed80174bfbb521ba06e8b93c441007511b455d1291341997898fd711.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Procampur First Section.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Tsurlagol Guard.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Procampur Vampire menace.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Procampur Second Section.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Guild of the Weave.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Crooksnook Thieves Guild.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Clan Ironfist.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Factions/Ale Coast.md",
+    "D&D homebrew/D&D Homebrew/Lore and etc/Books and stories/Barovian Badman.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Adventurers and Crew/Anderson's Crew/Genna Dilinger.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Turnble.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Slapzy.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Peach.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Mary.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Litalis Ironfist.md",
     "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Kegger.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Shin.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Sliver the Doctor.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Mayor Of Procampur Vesper.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Chris the Druid.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Beer Slinger Bib.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Battlemaster Rathin.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Antwel Sellswords.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Varian Halloway.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Phil McKraken.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Hightower Ironfist.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Isolde Seastone.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Mayor Ironfist.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Mynard.md",
+    "D&D homebrew/D&D Homebrew/Players/Amsel.md",
+    "D&D homebrew/D&D Homebrew/Progress and Plans.md",
+    "D&D homebrew/Images purely for syncs/Talespire/Procampur/Road to P shrine.png",
     "D&D homebrew/Images purely for syncs/Party images/James-Portrait (2).png",
     "D&D homebrew/Images purely for syncs/Party images/Gideon Seastone-Portrait.png",
     "D&D homebrew/D&D Homebrew/Easter Eggs/Bases.base",
@@ -208,7 +223,6 @@
     "D&D homebrew/Images purely for syncs/Books and such/Gash-Portrait.png",
     "D&D homebrew/Images purely for syncs/Books and such/Gnodger-Portrait.png",
     "D&D homebrew/Images purely for syncs/Creatures and Enemies/Sliver-Portrait.png",
-    "D&D homebrew/Images purely for syncs/Creatures and Enemies/Rot Jaw-Portrait.png",
     "D&D homebrew/D&D Homebrew/Lore and etc/Ships",
     "D&D homebrew/Images purely for syncs/Talespire/Ships",
     "D&D homebrew/Images purely for syncs/Books and such",
@@ -216,7 +230,6 @@
     "D&D homebrew/D&D Homebrew/Lore and etc",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol",
     "D&D homebrew/D&D Homebrew/NPCs/Procampur",
-    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

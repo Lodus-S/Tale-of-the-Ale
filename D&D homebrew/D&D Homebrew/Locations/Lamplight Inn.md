@@ -17,3 +17,4 @@ Tallow is the Bartender and most-likely owner of the Lamplight Inn. He is friend
 
 
 ![[Tallow Morrick-Portrait.png|650]]
+[[talespire://published-board/TGFtcGxpZ2h0IElubg==/be6b9b4c47f38e4470ebec82682b7845|TS Map]] 

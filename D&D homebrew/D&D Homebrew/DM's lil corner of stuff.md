@@ -21,8 +21,8 @@ _I was actually happy with how this came out. I saw a post on reddit of someone 
 _This map was recreated in Talespire however more islands have been expanded. The whole creation of this map is what really setup the whole campaign. I found a website to make maps and when I was done I opened it in photoshop and moved some of the icons around and this is the end result_
 
 ![[DND map.png|700]]
-
-
+[[talespire://published-board/MC4wIE92ZXJ3b3JsZA==/d19087ec4cbff6322e3c70856d21e1ff|TS map]]
+[[HF API:/=822f0776ed80174bfbb521ba06e8b93c441007511b455d1291341997898fd711|HF API]]
 
 Easter Eggs
 Darren Island with Kurt living on it.... hahaha

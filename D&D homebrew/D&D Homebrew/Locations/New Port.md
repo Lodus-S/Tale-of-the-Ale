@@ -17,3 +17,5 @@ Dozens of watering holes with names like _The Broken Rudder_, _Maiden’s End_, 
 
 **The Shipyards**  
 Cranes clatter, riggers shout, and crews prepare vessels for departure. This is where the party will find their assigned ship—lined up among corsair skiffs, trade galleons, and privateers flying flags with more ego than legality. _The Oceanic Duck_ 
+
+[[talespire://published-board/TmV3IFBvcnQ=/b4aa9b4449c2d8f4d2796bb8a80e69a5|TS Map]]
