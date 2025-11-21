@@ -1,4 +1,3 @@
-
 _“Where the sea spits out sailors, secrets, and stolen goods.”_
 
 **New Port** isn’t a town—it’s a **living, groaning dockyard** stitched to the underbelly of Procampur. Salt-stained wood planks creak under boots from every corner of the world. It smells like fish, sweat, and ambition.

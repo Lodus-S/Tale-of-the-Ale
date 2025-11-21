@@ -1,6 +1,7 @@
 **Race:**  Fishfolk
 **Class:** Coral Samurai
 
+[[Session 14]] this was from the POV of Koi'jin
 _As told by Koi’jin the Neck-Gilled Ronin_
 
 The waves whispered my name this morning — _Koi’jin_, the last survivor of the Coral Clan. I could smell destiny on the wind, the scent of strangers and steel. When I saw their ship approach the shore, I knew... my arc was about to begin.

@@ -7,4 +7,4 @@ Some sort of barrier blocking the way (assumed not confirmed)
 
 Opal's team seems to have also found some information about this place
 
-Andersons team are quiet.
+Andersons team are quiet. (rumour has it Pup is on the Dragon Isle)
