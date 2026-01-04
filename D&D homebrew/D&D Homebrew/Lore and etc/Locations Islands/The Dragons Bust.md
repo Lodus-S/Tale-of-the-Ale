@@ -2,6 +2,7 @@ The island doesn't really have a name however closing in on the island the party
 
 _Map in the overworld_
 ![[The Dragons Bust Map.png]]
+
 _Game map_
 ![[The Dragons Bust.png]]
 

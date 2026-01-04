@@ -1,4 +1,3 @@
-
 **Session Recap – Umbrimps about to leave**
 
 Josié caught a glimpse of the Umbrimp, which vanished as Amsel approached—only to reappear and deliver a cryptic message to José. The group regrouped and planned to infiltrate the mayor’s wagon via the druid grove.

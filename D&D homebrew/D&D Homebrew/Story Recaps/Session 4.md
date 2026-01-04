@@ -1,4 +1,3 @@
-
 **Session Recap – “Shadows on the Road”**
 
 The party began their journey to Procampur, a two-day cart ride alongside a caravan of adventurers. By nightfall, they made camp and had a proper sit-down with Captain Thawrn. He explained the purpose of the expeditions: the search for the mythical _Ale Coast_, an island that doesn’t exist on any map—yet causes intense nosebleeds and psychic pressure, even in people like Jose’ who’ve never seen it. Big money is being poured into these voyages, and the party has three days to prepare once they reach Procampur.

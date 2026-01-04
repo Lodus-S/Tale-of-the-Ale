@@ -11,10 +11,14 @@
             "id": "a78b0083d27342a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "D&D homebrew/D&D Homebrew/Story Recaps/Session 19.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 19"
             }
           }
         ]
@@ -167,23 +171,13 @@
   },
   "active": "a78b0083d27342a1",
   "lastOpenFiles": [
-    "D&D homebrew/D&D Homebrew/Players/Amsel.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 19.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 18.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 17.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 16.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 15.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 14.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 13.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 1.md",
-    "D&D homebrew/D&D Homebrew/Story Recaps/Session 0.md",
-    "D&D homebrew/D&D Homebrew/DM's lil corner of stuff.md",
-    "D&D homebrew/D&D Homebrew/Progress and Plans.md",
+    "D&D homebrew/D&D Homebrew/Story Recaps/Session 20.md",
     "D&D homebrew/D&D Homebrew/Players/Josephine Josie' Lovitt.md",
     "D&D homebrew/D&D Homebrew/Players/James Macroy.md",
     "D&D homebrew/D&D Homebrew/Players/Gideon Seastone.md",
-    "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Phil McKraken.md",
+    "D&D homebrew/D&D Homebrew/Players/Amsel.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Varian Halloway.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Phil McKraken.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Mynard.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Mayor Ironfist.md",
     "D&D homebrew/D&D Homebrew/NPCs/Tsurlagol/Isolde Seastone.md",
@@ -193,6 +187,16 @@
     "D&D homebrew/D&D Homebrew/NPCs/Procampur/Mayor Of Procampur Vesper.md",
     "D&D homebrew/D&D Homebrew/NPCs/Procampur/Chris the Druid.md",
     "D&D homebrew/D&D Homebrew/NPCs/Procampur/Beer Slinger Bib.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Battlemaster Rathin.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Procampur/Antwel Sellswords.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Welles Javon.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Turnble.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Peach.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Mary.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Litalis Ironfist.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Party Crew/Kegger.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Alchemist Quib.md",
+    "D&D homebrew/D&D Homebrew/NPCs/Guild of the Weave/Astronomer Barbophant.md",
     "D&D homebrew/Images purely for syncs/Talespire/Islands/Tropical Island.png",
     "D&D homebrew/Images purely for syncs/Talespire/Islands/Tropical Island Map.png",
     "D&D homebrew/Images purely for syncs/Talespire/Islands/The Dragons Bust.png",

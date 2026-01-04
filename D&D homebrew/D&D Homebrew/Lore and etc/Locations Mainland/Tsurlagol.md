@@ -1,4 +1,3 @@
-
 _“Where stone meets sea, and stories begin.”_
 
 Nestled between the jagged **Earthpast Mountains** and the shimmering **Sea of Fallen Stars**, **Tsurlagol** is a rugged mining town as old as the coastline itself. With dusty boots and weathered smiles, its people are hardened by labor and softened by ale.

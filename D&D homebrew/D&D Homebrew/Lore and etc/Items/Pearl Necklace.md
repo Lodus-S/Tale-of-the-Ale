@@ -1,4 +1,3 @@
-	
 A slender silver chain bearing a perfectly carved leaf of pearl that is cold to the touch. The back is delicately inscribed with the initials **“G D”**, their edges worn. 
 
 **The Pearl Leaf**  

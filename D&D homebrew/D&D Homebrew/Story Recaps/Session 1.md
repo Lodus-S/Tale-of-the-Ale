@@ -1,4 +1,3 @@
-
 **Session One Summary – The Tale Begins**
 
 Our tale kicks off in the bustling, festival-lit mountain city of **Tsurlagol**, where three outsiders—**Josie'**, **Amsel**, and **James**—arrive by wagon, eager for adventure. They're joined by local lad **Gideon Seastone**, a familiar face at the Jackanape Tavern, where our story begins.

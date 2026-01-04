@@ -1,4 +1,3 @@
-
 Brown Leather boots with a conch shell trinket hanging from it.
 
 You gain advantage on checks to swim, and your swimming speed equals your walking speed.

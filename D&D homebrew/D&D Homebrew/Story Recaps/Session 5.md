@@ -1,4 +1,3 @@
-
 **Session Recap – Arrival at Procampur**
 
 The party finally reached **Procampur**, trailing behind the main group to explore a side area called **Crooksnook**—a quiet fishing spot just outside the city. There, they stumbled across the dust-choked remains of an old **thieves' hideout**, raided about 20 years ago. Most of it had been picked clean, but **Gideon** found a bottle of _Barovian Grapemash no.3_, and **Amsel** pocketed a strange **sigil coin** tied to the long-gone thieves' group.

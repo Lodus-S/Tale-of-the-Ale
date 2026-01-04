@@ -2,6 +2,7 @@ The brush island was the second island the party sailed to. Upon arriving on the
 
 _Map from overworld_
 ![[Brush Island map.png]]
+
 _Game map_ 
 ![[Brush Island.png]]
 

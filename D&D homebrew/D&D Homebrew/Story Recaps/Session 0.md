@@ -1,4 +1,3 @@
-
 **SESSION ZERO INTRO: THE VANISHING OF THE ALE COAST**
 
 Faerûn is built on stories.

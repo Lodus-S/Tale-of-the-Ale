@@ -2,6 +2,7 @@ Darren island is just a landmass that's been split in half. a Lighthouse on the 
 
 _Map in overworld_
 ![[Darren Island Map.png]]
+
 _Game map_ 
 ![[Darren Island.png]]
 

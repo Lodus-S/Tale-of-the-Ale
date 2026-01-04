@@ -1,4 +1,3 @@
-
 **Session Recap – Procampur Shenanigans**
 
 Gideon wandered into New Port and stumbled on a shady fishing shack where he met a fellow rogue. Turns out there's a local Thieves Guild that shifts its base regularly through the shanty town to stay hidden. They had a good ol’ rogue chat.
