@@ -2,7 +2,7 @@
 **Class:** Fighter
 
 Known to be looking for a place. [[Isolde Seastone]] was tasked to protect and accompany him and his men around town. Isolde didn't get a bad vibe from him but he seems very strict and secretive.
-Last seen leaving on a Ship. 
+Rescued by the party at the Factory  
 
 ![[Inf Cap Grunt-Portrait.png|650]]
 

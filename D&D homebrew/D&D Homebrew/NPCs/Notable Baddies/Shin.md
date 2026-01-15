@@ -1,6 +1,10 @@
 **Race:** Vampire 
 **Class:** Barbarian
 
+SHIN — The Sunbreaker
+
+**Domain:** The Grand Arena
+
 Seems to more focused on putting on a show at his Arena than actually doing any of the "Evil Vampire Lord" stuff. Make no mistake, he is deadly and unpredictable. He wields a strange blade that he draws by pulling it out of his arm.
 
 ![[Shin-Portrait.png|650]]

@@ -2,6 +2,7 @@
 **Class:**  Artificer 
 
 Janko seems like a smart guy, he's got an air of a caring grandpa. Knows or takes care of [[Genna Dilinger]]. Looks like he knows his way around various explosives and powder weapons. Recently went missing after saying goodbye to Genna.
+Party rescued him at the factory. 
 
 
 
