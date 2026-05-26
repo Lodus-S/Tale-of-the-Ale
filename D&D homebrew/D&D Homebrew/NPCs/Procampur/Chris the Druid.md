@@ -9,3 +9,4 @@ Local Druid at the Earthpast Lifetree outside Procampur. He setup a little scave
 
 *DM's private note*
 Actually a reference to Mudd from Tales of the Stinky dragon. [[Procampur First Section|.]] 
+[song](https://open.spotify.com/track/1zyRXYemTMM1pv5r9p6gQj?si=864afd239a6e4a08)

@@ -11,3 +11,4 @@ Captain Opal is a striking and lethal drow rogue, commanding her ship, _The Unde
 
 *DM's private note*
 This is a reclothed version of the Minthara Heroforge I made.
+[song](https://open.spotify.com/track/4RyPvJk0n6DLCptEoe6PE7?si=3e0d7321fa11455e)

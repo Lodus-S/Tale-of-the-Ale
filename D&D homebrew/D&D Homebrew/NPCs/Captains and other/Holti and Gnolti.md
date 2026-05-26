@@ -17,3 +17,4 @@ Gnolti is Holti’s towering, silent brother—muscle, mystery, and menace all w
 
 *DM's private note*
 Holti and Gnolti were born when I found a funky looking dwarf in talespire and just made it twins
+[song of both](https://open.spotify.com/track/2iuvr7akes0B5fEzNkZGjE?si=b3247d9a0d9b4cb0)

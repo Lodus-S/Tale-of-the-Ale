@@ -7,3 +7,4 @@ Phil runs the magic shop *Kraken a Spell* in Tsurlagol. Got a high price for his
 ![[Phil McKraken-Portrait.png|650]]
 
 *DM's private note*
+No Song

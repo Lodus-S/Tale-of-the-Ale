@@ -9,4 +9,4 @@ This was what was causing the Lifetree to weaken and what appeared to be fae mag
 ![[Mage Eye Golem.png|650]]
 
 *DM's private note*
-Introducing the Mage eye in a boss battle seemed great till I got the backstories of the party then it got better.
+Introducing the Mage eye in a boss battle seemed great till I got the backstories of the party then it got better.[song](https://open.spotify.com/track/4zXe2jpiMOtdG8hFzddbzO?si=e69df47f89004e5c)

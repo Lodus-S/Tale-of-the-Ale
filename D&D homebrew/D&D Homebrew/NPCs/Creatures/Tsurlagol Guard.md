@@ -9,4 +9,4 @@ Tsurlagol’s guards function more like a disciplined militia than a formal army
 ![[Tsurlagol Guard-Portrait.png|650]]
 
 
-[[D&D homebrew/D&D Homebrew/Lore and etc/Factions/Tsurlagol Guard|.]] 
+[[D&D homebrew/D&D Homebrew/Lore and etc/Factions/Tsurlagol Guard|.]] No Song

@@ -7,3 +7,4 @@ Hamly is a rugged sea-elf fighter with a bold horseshoe hairline and a gloriousl
 
 *DM's private note*
 Hamly was my attempt at making a silly lil guy (would have been my Curse of Strahd Character)
+[song](https://open.spotify.com/track/12LkPAyI5AmYlyNKI1XNCN?si=76786dbcde3d4ce8)

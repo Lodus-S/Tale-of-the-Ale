@@ -7,3 +7,4 @@ Took is a mountain of a goliath fighter, towering with muscles and swinging a sw
 
 *DM's private note*
 The outfit is made to look like a character I made in Dynasty warriors Online
+[song](https://open.spotify.com/track/1UZb3elvxiqOvx4cMR9nz2?si=05c3fb9c69fc4d74)

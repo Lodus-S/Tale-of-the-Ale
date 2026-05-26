@@ -8,3 +8,4 @@ Mynard is the town bard in Tsurlagol he keeps his finger on the pulse of the cre
 
 *DM's private note*
 Potential Bard DMPC but the party already had a spell caster.
+[song](https://open.spotify.com/track/3tJ0VjLCAfLhp7BprmURXH?si=195149ca74eb4291)

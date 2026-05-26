@@ -7,3 +7,4 @@ This crazed dragon flew around the island searching for something and once it pi
 
 *DM's private note*
 Sorry my man but this was just planned to be a fight the moment y'all were noticed. I didn't plan much but not making things that are "Good natured" bad again.
+No Song

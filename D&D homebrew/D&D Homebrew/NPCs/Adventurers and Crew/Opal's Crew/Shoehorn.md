@@ -8,3 +8,4 @@ Shoehorn is a pint-sized gnome barbarian whose brain might be as small as his st
 
 *DM's private note*
 yes it was his name and he was not just Shoehorned in
+[song](https://open.spotify.com/track/4ZaBcUHuK3hTMAw0ZO7XHU?si=7bcf52c6743042b2)

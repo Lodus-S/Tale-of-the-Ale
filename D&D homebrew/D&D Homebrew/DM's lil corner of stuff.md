@@ -40,6 +40,5 @@ _Still sad we never played this campaign. the minis were made and the maps were 
 ![[Elspeth-portrait.png|300]] ![[Kyle-portrait.png|300]] 
 ![[Matt maybe-portrait.png|300]] ![[Swift-portrait.png|300]]
 
-
-
-_You know what! Im thinking of adding some spotify links of specific songs that kinda inspired some characters. I know it sounds strange but that is how some of these characters came to be. I heard a song and let my mind wonder then next thing you know I got a idea for a mini and a plothook. That being said it's kinda not really possible now. Obsidian cant do it without a plugin. _ 
+![[Old to new.png|650]]
+_(Left) NPCs inspired by my previous PCs (Right)_ 

@@ -8,3 +8,4 @@ Encountered on a abandoned ship these fishfolk can be found all over the Sea of 
 
 *DM's private note*
 Fishfolk came from a talespire import and were remade in Heroforge
+No Song

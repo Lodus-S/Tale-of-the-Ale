@@ -8,3 +8,4 @@ Genna is a half-elf tinkerer with a heart full of magic and hands covered in oil
 
 *DM's private note*
 Made a gender bend of a certain character and the lore just went from there. (find it, get a prize)
+[song](https://open.spotify.com/track/1uPrIHgYztXSkkcts9jet8?si=1f129b5985bd4c26)

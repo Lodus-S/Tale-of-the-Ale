@@ -3,6 +3,8 @@
 This is the tale of the crew that found the Wave Echo caves and took out the Redbrand ruffians in Phandalin. Details of magic items and criminal activity have been omitted but short descriptions do speak of the crew and what happened to them after the adventure.
 *Author  - Sildar Hallwinter*
 
+The Crew
+![[LMP crew.png|650]]
 
 **Roidz**
 After turning into a Halfling he set out on his new quest to change back to human.

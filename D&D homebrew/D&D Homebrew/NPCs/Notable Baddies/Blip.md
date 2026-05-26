@@ -1,8 +1,6 @@
 **Race:** Vampire 
 **Class:** Rogue
 
-BLIP — The Whisper-Smoke
-
 **Domain:** Information & Influence
 
 Blip is like if a vampire who lost cohesion and became a sentient mist. A shifting, cloudy silhouette with hints of a face when he wants to be polite. One moment he’s a faint smoke trail under a noble’s door, the next he’s sitting beside you at a bar like nothing’s weird.
@@ -17,5 +15,5 @@ Gain leverage. Everywhere. Inside and outside the dome. He's the only one of the
 
 _DM's private note_
 Yes I know he is if man form here. HOW DO YOU MAKE SMOKE A MINI!
-
+[song](https://open.spotify.com/track/5zQH6QtS4x9j3kmSmmABWu?si=bc269aebf902460f)
 [[Procampur Vampire menace|.]]

@@ -9,3 +9,4 @@ Nobody knows where he is now... He's dead.
 
 *DM's private note*
 I wanted a Bad Guy that's human for the party and he fit the role well but i never got a chance to introduce him properly[[D&D homebrew/D&D Homebrew/Lore and etc/Factions/Tsurlagol Guard|.]]
+[song](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm?si=569cfef3d137450e)

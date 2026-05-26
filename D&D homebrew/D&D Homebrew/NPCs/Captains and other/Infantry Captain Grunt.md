@@ -9,3 +9,4 @@ Rescued by the party at the Factory
 
 *DM's private note*
 His skin is two toned and split in half and I think that's pretty neat [[Ale Coast|.]] 
+[song](https://open.spotify.com/track/0z9lNasu27JxZ05Ho3PfkW?si=d96b54879ab54890)

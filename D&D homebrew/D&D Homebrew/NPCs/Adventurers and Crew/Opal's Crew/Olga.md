@@ -7,3 +7,4 @@ Olga is a towering human barbarian with a body carved by battle—every scar a t
 
 *DM's private note*
 you know what kind of man I am...
+No song

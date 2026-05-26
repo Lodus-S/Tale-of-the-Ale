@@ -10,4 +10,4 @@ Party rescued him at the factory.
 
 
 *DM's private note*
-I'm just gonna write it here for anyone reading this Janko is Gnodger's "Dad" (not blood related)... [[Procampur First Section|.]] 
+I'm just gonna write it here for anyone reading this Janko is Gnodger's "Dad" (not blood related)... [[Procampur First Section|.]] [song](https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2?si=98434baae81d4ec6)
